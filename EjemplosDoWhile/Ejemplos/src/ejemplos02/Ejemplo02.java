@@ -37,8 +37,7 @@ public class Ejemplo02 {
             if (salida.equals("s") || salida.equals("si") || 
                     salida.equals("yes") || salida.equals("y")){
                 bandera = false;}
-
-            
+   
         } while (bandera); // (bandera==true)
 
         System.out.printf("Listado de Notas\n%s\n", cadenaFinal);
