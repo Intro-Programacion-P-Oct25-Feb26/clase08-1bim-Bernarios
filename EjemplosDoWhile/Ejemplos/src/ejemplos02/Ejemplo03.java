@@ -2,6 +2,7 @@
  Agregar lo correspondiente para que el proceso siguiente permita
  sumar las notas en cada iteración y presentar en la cadena final el
  valor de la suma.
+Problema resuelto por el Mgtr.
  */
 package ejemplos02;
 
