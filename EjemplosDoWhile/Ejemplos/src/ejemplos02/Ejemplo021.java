@@ -5,7 +5,7 @@ s
 si
 yes
 y
-
+para la solucion usar un switch
  */
 package ejemplos02;
 
@@ -16,7 +16,7 @@ import java.util.Scanner;
  *
  * @author reroes
  */
-public class Ejemplo02 {
+public class Ejemplo021 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
